@@ -3,4 +3,4 @@ Personal icons to use with IPTV to have a consistent look when using a software 
 ### How to use
 Edit a m3u8 playlist to point to the logos under the tvg-logo option.
 
-![screenshot.jpeg](screenshot)
+![screenshot](screenshot.jpeg)
